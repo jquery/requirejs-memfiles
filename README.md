@@ -67,4 +67,4 @@ must be called when use is complete.
 
 ## License
 
-MIT © [Rafael Xavier de Souza](http://rafael.xavier.blog.br)
+MIT © [OpenJS Foundation and other contributors](https://openjsf.org/)
